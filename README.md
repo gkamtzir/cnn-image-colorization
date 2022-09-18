@@ -11,6 +11,13 @@ First of all, the dataset must be downloaded and placed in the `data` folder. To
 3) [Scikit-Image](https://github.com/scikit-image/scikit-image)
 4) [Matplotlib](https://github.com/matplotlib/matplotlib)
 
+## Output Examples
+**Examples on the testing set**
+![Example on testing set](./results/testing_example.png)
+
+**Examples on the training set**
+![Example on training set](./results/training_example.png)
+
 ## Documentation
 The entire process is outlined in a series of Medium posts I wrote. You can read them in the following links:
 1) [Building an Image Colorization Neural Network — Part 1: Generative Models and Autoencoders](https://medium.com/mlearning-ai/building-an-image-colorization-neural-network-part-1-generative-models-and-autoencoders-d68f5769d484)
