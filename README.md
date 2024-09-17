@@ -23,4 +23,4 @@ The entire process is outlined in a series of Medium posts I wrote. You can read
 1) [Building an Image Colorization Neural Network — Part 1: Generative Models and Autoencoders](https://medium.com/mlearning-ai/building-an-image-colorization-neural-network-part-1-generative-models-and-autoencoders-d68f5769d484)
 2) [Building an Image Colorization Neural Network — Part 2: Artificial Neural Networks](https://medium.com/mlearning-ai/building-an-image-colorization-neural-network-part-2-artificial-neural-networks-ac591eb180)
 3) [Building an Image Colorization Neural Network — Part 3: Convolutional Neural Networks](https://medium.com/mlearning-ai/building-an-image-colorization-neural-network-part-3-convolutional-neural-networks-21a45ef42dde)
-4) [Building an Image Colorization Neural Network - Part 4: Implementation]
+4) [Building an Image Colorization Neural Network - Part 4: Implementation](https://medium.com/p/7e8bb74616c)
